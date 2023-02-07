@@ -1,1 +1,4 @@
-This is Start to work
+void main(void)
+{
+    int i=0;
+}
